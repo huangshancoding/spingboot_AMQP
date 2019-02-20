@@ -1,0 +1,2 @@
+# spingboot_AMQP
+springBoot与AMQP的整合，主要是springBoot与rabbitMq 的结合
